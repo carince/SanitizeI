@@ -1,0 +1,17 @@
+{
+  "name": "sanitize1",
+  "version": "0.0.1",
+  "main": "index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "carince",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "dependencies": {
+    "@inquirer/prompts": "^7.4.1",
+    "chalk": "^5.4.1"
+  }
+}
