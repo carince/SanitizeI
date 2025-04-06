@@ -1,10 +1,10 @@
-# Sanitize I - Schedule I Trash Cleaner
+# Sanitize I
 
-A utility tool to clean the trash items and generator items from Schedule I game saves.
+A utility tool to clean trash from Schedule I game saves.
 
 ## ⚠️ Compatibility
 
-**Note:** This tool has only been tested with Schedule I v0.3.3f15. It may not work with other versions.
+**Note:** This tool has only been tested with v0.3.3f15. It may not work with other versions.
 
 ## 📋 Description
 
